@@ -4,7 +4,7 @@
   I'm a web development student at Devslopes, passionate about creating user-friendly web applications. I enjoy learning new frameworks, building projects, and improving my skills in HTML, CSS, and JavaScript.
 </p>
 
-<h3 align="center">
+<h3 align="center" style="font-size: 24px; font-weight: bold; margin-top: 30px; margin-bottom: 20px;">
   Connect with Me
 </h3>
 <p align="center">
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h3 align="center">
+<h3 align="center" style="font-size: 24px; font-weight: bold; margin-top: 30px; margin-bottom: 10px;">
   🎯 Current Goals
 </h3>
 <p align="center">
