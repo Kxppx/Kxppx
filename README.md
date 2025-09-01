@@ -2,24 +2,24 @@
 <p align="center">I'm a web development student at Devslopes, passionate about creating user-friendly web applications. I enjoy learning new frameworks, building projects, and improving my skills in HTML, CSS, and JavaScript.</p>
 <h2 align="center">Connect with Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/josevazquez17">
+  <a href="https://linkedin.com/in/josevazquez17" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://kxppx.github.io/Portfolio/">
+  <a href="https://kxppx.github.io/Portfolio/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:kxppxv@gmail.com">
+  <a href="mailto:kxppxv@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<h2 style="text-align: center;">🎯 Current Goals</h2>
-<p style="text-align: center; line-height: 1.8;">
+<h2 align="center">🎯 Current Goals</h2>
+<p align="center">
   📚 Complete Devslopes web development course<br>
-  🖥️ Build a full-stack application<br>
   💻 Contribute to open source projects<br>
   ⚛️ Learn React<br>
-  🎨 Improve CSS animation skills
+  🎨 Improve CSS animation skills<br>
+  🐍 Improve Python skills
 </p>
 
 <h2 align="center">Skills</h2>
