@@ -7,17 +7,23 @@
 <h3 align="center" style="font-size: 24px; font-weight: bold; margin-top: 30px; margin-bottom: 20px;">
   Connect with Me
 </h3>
-<p align="center">
-  <a href="https://linkedin.com/in/josevazquez17" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="70" style="text-decoration: none; vertical-align: middle;">
-  </a>
-  <a href="https://kxppx.github.io/Portfolio/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white" alt="Portfolio" width="90" style="text-decoration: none; vertical-align: middle;">
-  </a>
-  <a href="mailto:kxppxv@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="70" style="text-decoration: none; vertical-align: middle;">
-  </a>
-</p>
+<h3 align="center" style="font-size: 24px; font-weight: bold; margin-top: 30px; margin-bottom: 20px;">
+  Connect with Me
+</h3>
+<div align="center">
+  <div style="display: inline-block; position: relative;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="70" />
+    <a href="https://linkedin.com/in/josevazquez17" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; text-decoration: none;"></a>
+  </div>
+  <div style="display: inline-block; position: relative;">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white" alt="Portfolio" width="90" />
+    <a href="https://kxppx.github.io/Portfolio/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; text-decoration: none;"></a>
+  </div>
+  <div style="display: inline-block; position: relative;">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="70" />
+    <a href="mailto:kxppxv@gmail.com" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; text-decoration: none;"></a>
+  </div>
+</div>
 
 <h3 align="center" style="font-size: 24px; font-weight: bold; margin-top: 30px; margin-bottom: 10px;">
   🎯 Current Goals
