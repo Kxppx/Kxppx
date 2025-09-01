@@ -7,15 +7,11 @@
 <h3 align="center" style="font-size: 24px; font-weight: bold; margin-top: 30px; margin-bottom: 20px;">
   Connect with Me
 </h3>
-<p align="center">
-  <a href="https://linkedin.com/in/josevazquez17" style="text-decoration:none; color:inherit;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a><a href="https://kxppx.github.io/Portfolio/" style="text-decoration:none; color:inherit;">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white" alt="Portfolio"/>
-  </a><a href="mailto:kxppxv@gmail.com" style="text-decoration:none; color:inherit;">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/josevazquez17) 
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://kxppx.github.io/Portfolio/) 
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kxppxv@gmail.com)
+</div>
 
 <h3 align="center" style="font-size: 24px; font-weight: bold; margin-top: 30px; margin-bottom: 10px;">
   🎯 Current Goals
