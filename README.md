@@ -13,8 +13,8 @@
   </a>
 </p>
 
-<h2 align="center">🎯 Current Goals</h2>
-<p style="width: 60%; margin: 0 auto; line-height: 1.6;">
+<h2 style="text-align: center;">🎯 Current Goals</h2>
+<p style="text-align: center; line-height: 1.8;">
   📚 Complete Devslopes web development course<br>
   🖥️ Build a full-stack application<br>
   💻 Contribute to open source projects<br>
