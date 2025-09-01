@@ -8,14 +8,12 @@
   Connect with Me
 </h3>
 <p align="center">
-  <a href="https://linkedin.com/in/josevazquez17" style="text-decoration: none; color: inherit; vertical-align: middle;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="70"/>
-  </a>
-  <a href="https://kxppx.github.io/Portfolio/" style="text-decoration: none; color: inherit; vertical-align: middle;">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white" alt="Portfolio" width="90"/>
-  </a>
-  <a href="mailto:kxppxv@gmail.com" style="text-decoration: none; color: inherit; vertical-align: middle;">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="70"/>
+  <a href="https://linkedin.com/in/josevazquez17" style="text-decoration:none; color:inherit;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a><a href="https://kxppx.github.io/Portfolio/" style="text-decoration:none; color:inherit;">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white" alt="Portfolio"/>
+  </a><a href="mailto:kxppxv@gmail.com" style="text-decoration:none; color:inherit;">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
