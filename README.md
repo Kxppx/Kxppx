@@ -4,9 +4,9 @@
   I'm a web development student at Devslopes, passionate about creating user-friendly web applications. I enjoy learning new frameworks, building projects, and improving my skills in HTML, CSS, and JavaScript.
 </p>
 
-<div align="center" style="font-weight: bold; font-size: 1.5em; margin-bottom: 10px;">
+<h3 align="center">
   Connect with Me
-</div>
+</h3>
 <p align="center">
   <a href="https://linkedin.com/in/josevazquez17" style="text-decoration: none; color: inherit; vertical-align: middle;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,9 +17,9 @@
   </a>
 </p>
 
-<div align="center" style="font-weight: bold; font-size: 1.5em; margin-bottom: 17px;">
+<h3 align="center">
   🎯 Current Goals
-</div>
+</h3>
 <p align="center">
   📚 Complete Devslopes web development course<br>
   💻 Contribute to open source projects<br>
