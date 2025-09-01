@@ -1,6 +1,12 @@
 <h1 align="center">Hi, I’m Jose <br> Turning ideas into code</h1>
-<p align="center">I'm a web development student at Devslopes, passionate about creating user-friendly web applications. I enjoy learning new frameworks, building projects, and improving my skills in HTML, CSS, and JavaScript.</p>
-<h2 align="center">Connect with Me</h2>
+
+<p align="center">
+  I'm a web development student at Devslopes, passionate about creating user-friendly web applications. I enjoy learning new frameworks, building projects, and improving my skills in HTML, CSS, and JavaScript.
+</p>
+
+<p align="center" style="font-weight: bold; font-size: 1.5em;">
+  Connect with Me
+</p>
 <p align="center">
   <a href="https://linkedin.com/in/josevazquez17" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -13,7 +19,9 @@
   </a>
 </p>
 
-<h2 align="center">🎯 Current Goals</h2>
+<p align="center" style="font-weight: bold; font-size: 1.5em;">
+  🎯 Current Goals
+</p>
 <p align="center">
   📚 Complete Devslopes web development course<br>
   💻 Contribute to open source projects<br>
