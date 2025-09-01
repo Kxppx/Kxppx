@@ -19,38 +19,18 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-## 🚀 Featured Projects
-
-### [Project Name 1](https://github.com/yourusername/project1)
-
-Brief description of what this project does and the technologies used.
-
-- 🔧 Built with: HTML, CSS, JavaScript
-- 🌟 Key features: Feature 1, Feature 2, Feature 3
-- 🔗 [Live Demo](https://yourusername.github.io/project1)
-
-### [Project Name 2](https://github.com/yourusername/project2)
-
-Brief description of what this project does and the technologies used.
-
-- 🔧 Built with: HTML, CSS, JavaScript
-- 🌟 Key features: Feature 1, Feature 2, Feature 3
-- 🔗 [Live Demo](https://yourusername.github.io/project2)
-
 ## 📈 Current Goals
 
-- [ ] Complete Devslopes web development course
-- [ ] Build a full-stack application
-- [ ] Contribute to open source projects
-- [ ] Learn React
-- [ ] Improve my CSS animation skills
+- Complete Devslopes web development course
+- Build a full-stack application
+- Contribute to open source projects
+- Learn React
+- Improve my CSS animation skills
 
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/josevazquez17)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://kxppx.github.io)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://kxppx.github.io/portfolio-starter-repo/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kxppxv@gmail.com)
 
 ---
-
-⭐️ From [yourusername](https://github.com/yourusername)
